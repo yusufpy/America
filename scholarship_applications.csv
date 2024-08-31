@@ -1,0 +1,101 @@
+Student ID,Name,University,Degree Program,Year of Study,GPA,Extracurricular Activities,Leadership Roles,Community Service Hours,Family Income,Special Needs,State of Origin,Scholarship Provider,Essay Score,Recommendation Score,Eligibility Criteria Met,Awarded Scholarship
+STU3835,David King,Osborn Inc University,Electrical Engineering,1,4.78,Debate,None,101,136185,No,Maine,NNPC,97,86,Yes,Yes
+STU2612,Sharon Sandoval,Johnson Group University,Medicine,2,2.54,Drama,Class Representative,136,428204,No,Alaska,Chevron,70,94,Yes,No
+STU8277,Christopher Black,Cervantes-Merritt University,Business Administration,3,2.88,Debate,Class Representative,25,947689,No,Virginia,Snepco,82,93,Yes,Yes
+STU5423,John Roberson,"Garcia, Davis and Gardner University",Computer Science,4,3.5,Sports,Club President,49,630695,No,Kansas,AAF,82,73,Yes,No
+STU1537,Sharon May,Pruitt-Miles University,Computer Science,4,3.19,Arts Club,Class Representative,100,849780,No,Louisiana,KPMG,89,80,Yes,Yes
+STU3731,Nathan Anderson,Jensen-Rivera University,Computer Science,4,4.45,Student Council,Club President,126,650840,Yes,Colorado,Snepco,65,62,Yes,No
+STU1578,Matthew Velazquez,"Brown, Garrett and Owen University",Mechanical Engineering,2,3.06,Student Council,Team Captain,0,240520,No,Utah,Snepco,65,97,Yes,No
+STU6094,Robert Navarro,Sparks-Garcia University,Medicine,2,2.91,Student Council,None,65,231079,Yes,New Mexico,MTN,94,60,No,No
+STU8749,Jermaine Harris,"Robertson, Haynes and Johnson University",Electrical Engineering,4,3.52,Student Council,Club President,83,402924,No,Wisconsin,NNPC,67,94,Yes,No
+STU9343,Steven Ellison,Ortiz-Owen University,Computer Science,2,4.09,Student Council,None,131,547461,No,Delaware,Snepco,84,71,Yes,No
+STU6699,Emily Johnson,Ward and Sons University,Computer Science,3,3.82,Debate,Class Representative,110,654497,Yes,Minnesota,KPMG,91,80,Yes,Yes
+STU3999,James Murphy,Coleman-Todd University,Medicine,4,3.15,Sports,Team Captain,128,155870,Yes,North Carolina,AAF,95,94,Yes,Yes
+STU7734,Joshua Gonzalez,"Hughes, Green and Farmer University",Mechanical Engineering,3,4.3,Debate,Club President,81,575889,No,Alaska,AAF,78,90,Yes,Yes
+STU2495,Shane Ruiz,Boyd and Sons University,Law,4,3.67,Volunteering,Class Representative,131,518066,No,Mississippi,MTN,61,60,Yes,No
+STU4111,Christine Evans,Klein-Chen University,Mechanical Engineering,3,3.81,Sports,Club President,13,251745,No,Virginia,MTN,63,89,Yes,No
+STU2589,Laura Gordon,Miller-Soto University,Computer Science,3,3.23,Drama,None,114,241460,Yes,Wisconsin,NNPC,81,88,No,No
+STU5393,Anthony Weaver,"Foster, Cline and Curry University",Computer Science,2,3.32,Sports,Class Representative,95,625237,Yes,Virginia,Snepco,72,77,Yes,No
+STU8907,Daniel Knox,"Rogers, Meadows and Lopez University",Computer Science,3,4.93,Debate,None,186,127114,Yes,Michigan,Chevron,88,69,Yes,No
+STU2325,Jordan Martin,Moore Group University,Law,4,3.52,Debate,Class Representative,180,534424,Yes,Alabama,AAF,73,76,No,No
+STU8324,Leslie Knight,Burns Inc University,Medicine,3,4.95,Sports,Team Captain,78,887022,No,Missouri,NNPC,60,85,Yes,No
+STU9860,Carl Yates,Barnes-Clark University,Mechanical Engineering,4,3.67,Student Council,Club President,89,936038,Yes,Florida,Chevron,100,68,Yes,No
+STU3152,Elizabeth Walker,"Lee, Woodard and Santos University",Computer Science,1,4.98,Drama,Class Representative,85,125207,No,Montana,MTN,82,78,Yes,Yes
+STU3563,Daniel Burke,Parks PLC University,Electrical Engineering,3,3.61,Arts Club,Club President,51,709034,Yes,Tennessee,Snepco,63,81,Yes,No
+STU5501,Amber Gonzalez,Martin Group University,Law,3,4.11,Drama,Team Captain,55,879258,No,Oregon,Chevron,60,96,Yes,No
+STU3050,Misty Kennedy,Day Group University,Electrical Engineering,1,3.36,Volunteering,Club President,190,824027,Yes,Vermont,MTN,97,73,Yes,No
+STU5904,Michael Maxwell,Coleman Inc University,Computer Science,3,3.72,Debate,None,79,448285,No,Arizona,KPMG,60,63,Yes,No
+STU5128,Olivia Foley,Arellano and Sons University,Law,4,2.94,Debate,Class Representative,194,964686,No,Oregon,Snepco,69,70,Yes,No
+STU9974,Derrick Freeman,Wilson Ltd University,Mechanical Engineering,4,2.6,Arts Club,Team Captain,122,621232,Yes,South Carolina,MTN,91,84,Yes,Yes
+STU1889,Reginald Wright DDS,"Vega, Deleon and Horton University",Mechanical Engineering,1,2.97,Volunteering,Team Captain,45,377364,Yes,Missouri,NNPC,88,80,No,No
+STU6754,Michelle Garcia,"Sanchez, Peters and Johnson University",Business Administration,2,3.12,Volunteering,Team Captain,11,502767,No,Mississippi,AAF,60,76,Yes,No
+STU5357,Anita Walker,Jackson-Horton University,Mechanical Engineering,2,3.17,Sports,Team Captain,113,671821,No,Maryland,Seplat,86,91,Yes,Yes
+STU1743,Kelly Rodriguez,"Lara, Garner and Schwartz University",Mechanical Engineering,1,4.97,Volunteering,Team Captain,92,900800,Yes,Kentucky,NNPC,95,88,No,No
+STU4916,Tonya Reyes,Jarvis LLC University,Computer Science,1,3.98,Volunteering,None,126,620646,Yes,Florida,Chevron,75,98,Yes,No
+STU1201,Gary Hoffman,Dennis Ltd University,Electrical Engineering,4,4.97,Volunteering,Team Captain,65,369915,No,Florida,KPMG,79,100,No,No
+STU8087,James Santiago,Moore LLC University,Medicine,1,4.72,Sports,None,185,352109,Yes,Nebraska,NNPC,99,66,Yes,No
+STU7905,Andrew Mullins,Henry Group University,Computer Science,2,4.54,Student Council,Team Captain,26,950285,No,Minnesota,Chevron,84,71,Yes,No
+STU1347,Dr. Patrick Moore,Hutchinson-Brooks University,Mechanical Engineering,3,4.13,Volunteering,Team Captain,34,671368,Yes,South Carolina,Snepco,67,83,Yes,No
+STU8951,Jamie Cox,"Conley, Rodriguez and Taylor University",Business Administration,1,4.81,Drama,Club President,33,395378,No,Vermont,MTN,98,67,Yes,No
+STU3111,Michelle Clark,"Hurley, Newton and Good University",Medicine,4,3.62,Student Council,Team Captain,142,956358,Yes,Missouri,Seplat,83,83,No,No
+STU7967,Tracy Carlson,Flores and Sons University,Computer Science,1,2.65,Arts Club,Class Representative,48,124378,Yes,Texas,AAF,92,97,Yes,Yes
+STU6033,Paul Skinner,Heath and Sons University,Computer Science,3,2.91,Volunteering,Team Captain,157,447064,Yes,Delaware,NNPC,88,79,Yes,Yes
+STU5898,Brandon Powers III,Garza Group University,Medicine,1,3.69,Student Council,Club President,62,825928,No,Arizona,Chevron,89,74,Yes,No
+STU8438,Roger Lewis,Dunn-Fernandez University,Business Administration,4,3.21,Volunteering,None,37,633700,Yes,Illinois,KPMG,70,81,Yes,No
+STU8471,Eric Harrison,Smith Ltd University,Law,1,4.83,Volunteering,None,27,825178,Yes,Utah,Seplat,65,86,Yes,No
+STU9360,Danielle Franklin,"Payne, Stephens and Gallagher University",Computer Science,4,3.55,Student Council,Team Captain,126,511612,Yes,Iowa,NNPC,84,60,Yes,No
+STU6355,Karen Hurley,Ayala LLC University,Law,3,3.11,Drama,Club President,145,244916,No,Wisconsin,Snepco,74,97,Yes,No
+STU3938,Nicholas Mccarthy,"Stewart, Edwards and Richardson University",Medicine,3,4.38,Arts Club,None,50,294358,Yes,West Virginia,Snepco,97,100,Yes,Yes
+STU7045,Logan Bryant,Green-Baker University,Medicine,1,4.0,Student Council,Club President,48,755879,No,West Virginia,MTN,66,73,Yes,No
+STU2801,John Stein,Holland-Johnson University,Mechanical Engineering,2,3.03,Volunteering,Class Representative,195,514909,No,Rhode Island,Snepco,92,66,Yes,No
+STU6210,Emily Taylor,Osborne LLC University,Business Administration,2,3.77,Debate,Club President,156,379738,No,Oklahoma,AAF,92,62,Yes,No
+STU7532,Ryan Lucero,Walker LLC University,Business Administration,2,3.05,Volunteering,Team Captain,108,451001,No,Washington,KPMG,94,96,Yes,Yes
+STU2539,Amanda Brown,Wilcox Group University,Electrical Engineering,1,2.51,Volunteering,Team Captain,82,834245,No,Indiana,Chevron,68,93,Yes,No
+STU9532,Virginia Steele,Nguyen-Randall University,Business Administration,2,4.3,Drama,None,43,702168,No,Massachusetts,AAF,72,66,Yes,No
+STU9025,Destiny Nixon,"Stokes, Mckinney and Kelley University",Medicine,1,3.6,Drama,Class Representative,125,244012,Yes,Oregon,Snepco,67,91,Yes,No
+STU6261,Aaron Ramos,Ramos-Harmon University,Electrical Engineering,1,3.28,Student Council,Team Captain,148,531350,No,Oklahoma,NNPC,63,73,Yes,No
+STU7590,Michael Brown DVM,"Young, Flores and Chambers University",Computer Science,4,3.04,Debate,Team Captain,111,385409,Yes,Utah,Chevron,95,94,Yes,Yes
+STU3888,Jacob Graves,"Torres, Bullock and Armstrong University",Electrical Engineering,1,3.93,Student Council,Team Captain,20,168073,Yes,Washington,NNPC,69,76,Yes,No
+STU7536,Renee Davis,Callahan-Anderson University,Law,1,3.64,Sports,None,53,756380,Yes,Massachusetts,Chevron,80,88,Yes,Yes
+STU5564,Walter Morrow,"Alexander, Ford and French University",Business Administration,4,3.23,Debate,Club President,122,981868,Yes,Maryland,Seplat,90,97,Yes,Yes
+STU6797,Gloria Hernandez,"Mcguire, Young and Rodriguez University",Business Administration,2,2.6,Volunteering,None,164,957022,Yes,Virginia,NNPC,87,79,No,No
+STU2657,Christopher Maldonado,Zimmerman-Hoffman University,Business Administration,3,4.81,Debate,Club President,28,596497,Yes,Illinois,Snepco,68,82,Yes,No
+STU4089,Trevor Moore,"Clark, Johnson and Robertson University",Electrical Engineering,4,4.36,Debate,None,13,805517,No,New Mexico,AAF,93,90,No,No
+STU8441,Allison Boyd,"Cole, Steele and Castillo University",Law,3,4.29,Volunteering,Team Captain,119,874024,No,New Hampshire,KPMG,77,98,Yes,Yes
+STU3290,Kristen Butler,"Duarte, Simpson and Smith University",Computer Science,3,4.36,Student Council,Class Representative,165,585462,Yes,Minnesota,AAF,89,90,Yes,Yes
+STU9584,Kyle Montgomery,"Wright, Mann and Ramirez University",Electrical Engineering,3,4.59,Arts Club,None,23,111000,No,Iowa,AAF,62,77,Yes,No
+STU6148,Jacob Watts,Golden Inc University,Mechanical Engineering,3,2.67,Arts Club,Team Captain,105,454602,Yes,Maine,Snepco,100,81,Yes,Yes
+STU7931,John Wagner,"Scott, Jacobs and Johnson University",Business Administration,3,4.99,Student Council,Team Captain,30,421669,No,Missouri,MTN,90,86,Yes,Yes
+STU1109,Danny Patterson,"Whitaker, Maldonado and Baker University",Business Administration,4,3.83,Student Council,Team Captain,173,673433,No,Alabama,NNPC,75,75,Yes,No
+STU9038,Stephen Olson,"Cuevas, Strickland and Smith University",Business Administration,3,4.65,Debate,Class Representative,111,241092,Yes,Texas,NNPC,95,75,Yes,No
+STU2665,Michael Wilson,Walker-Williams University,Computer Science,1,4.65,Volunteering,None,62,318925,Yes,North Carolina,NNPC,73,99,Yes,No
+STU9574,Jessica Preston,"Bean, Villarreal and Ware University",Business Administration,3,3.31,Drama,Club President,177,944839,No,New Hampshire,NNPC,89,77,Yes,Yes
+STU7412,Yolanda Phillips,"Peterson, Hayden and Davis University",Mechanical Engineering,2,2.54,Drama,Club President,65,639913,Yes,Georgia,Seplat,66,67,Yes,No
+STU6121,Thomas Blankenship,"Morrow, Gonzalez and Smith University",Medicine,4,4.48,Debate,Class Representative,48,372854,Yes,South Carolina,AAF,68,85,Yes,No
+STU8653,Kathleen Hamilton,Torres LLC University,Electrical Engineering,2,4.0,Drama,Class Representative,88,358430,Yes,Kansas,Seplat,81,100,Yes,Yes
+STU4355,Shelley Maxwell,Wilson Ltd University,Computer Science,4,2.64,Sports,Class Representative,128,227754,Yes,Tennessee,AAF,75,94,Yes,No
+STU9605,Glenn Evans,Smith PLC University,Business Administration,4,3.87,Debate,Class Representative,79,630761,Yes,Indiana,KPMG,68,88,Yes,No
+STU2335,David May,Suarez and Sons University,Medicine,4,3.26,Volunteering,None,190,488614,No,West Virginia,AAF,97,73,Yes,No
+STU3603,Luis Lowe,"Steele, Ortega and Jarvis University",Computer Science,2,3.92,Student Council,Club President,176,189125,Yes,Iowa,Chevron,84,98,Yes,Yes
+STU2304,Anita Frost,Clarke Inc University,Computer Science,4,3.8,Arts Club,None,6,719728,Yes,Florida,AAF,70,66,Yes,No
+STU2524,Joseph Frost,"Long, Davis and Joseph University",Computer Science,3,4.21,Volunteering,Class Representative,49,743917,Yes,New York,MTN,63,66,Yes,No
+STU8245,Lindsay Perry MD,"Santiago, Hurst and Berg University",Electrical Engineering,1,4.47,Volunteering,None,27,216780,No,Hawaii,KPMG,81,73,Yes,No
+STU3220,John Jones,Giles and Sons University,Medicine,2,4.09,Debate,Class Representative,15,150317,Yes,Georgia,MTN,97,76,Yes,Yes
+STU9625,Reginald Harrison,"Burch, Barnes and Lowe University",Medicine,2,3.21,Volunteering,None,31,423833,No,Indiana,KPMG,75,68,Yes,No
+STU3473,James Meza,Nielsen-Ramsey University,Law,1,3.16,Sports,Class Representative,184,185074,No,Oklahoma,Chevron,77,66,No,No
+STU7921,Sylvia Murillo,Chen-Smith University,Business Administration,3,4.96,Student Council,None,137,229475,Yes,Arkansas,Snepco,78,97,Yes,Yes
+STU6759,John Bird,Gay PLC University,Law,1,3.05,Drama,Club President,117,582704,No,Illinois,MTN,60,93,Yes,No
+STU8338,Amy Brown,"Mcdonald, Woodard and Black University",Business Administration,4,3.53,Sports,None,39,229482,Yes,Oklahoma,MTN,100,99,Yes,Yes
+STU8808,Andrew Bush,Salinas-Jackson University,Medicine,4,4.54,Volunteering,None,112,154935,No,Louisiana,KPMG,74,93,Yes,No
+STU2487,Timothy Diaz,Sullivan Ltd University,Electrical Engineering,1,2.61,Student Council,Team Captain,92,706092,No,Ohio,MTN,69,70,Yes,No
+STU1814,David Spencer,"King, Cohen and Hubbard University",Electrical Engineering,4,4.27,Student Council,Team Captain,192,544822,No,Pennsylvania,Seplat,65,64,Yes,No
+STU2418,Brian Cain,Williams Group University,Mechanical Engineering,4,3.34,Debate,None,190,222826,No,Rhode Island,KPMG,89,70,Yes,No
+STU4032,Brett Thomas,Walker-Nguyen University,Electrical Engineering,2,2.54,Volunteering,None,140,198658,Yes,Wisconsin,Seplat,60,85,Yes,No
+STU7139,Alexandra Austin,Howard Group University,Law,4,3.46,Volunteering,None,35,216247,No,Oregon,Seplat,100,65,Yes,No
+STU2984,Monica Hughes,"Jones, Johnson and Calderon University",Business Administration,4,3.95,Arts Club,None,126,845726,Yes,South Dakota,Seplat,79,65,No,No
+STU7281,Michael Harris,"Munoz, Ponce and Garcia University",Law,2,3.93,Debate,None,179,672460,No,West Virginia,KPMG,88,95,Yes,Yes
+STU3034,Brian Smith,Lee-Rios University,Computer Science,3,3.64,Student Council,Team Captain,166,860322,Yes,Florida,AAF,89,78,Yes,Yes
+STU7214,Leonard Jackson PhD,"Williams, Harmon and Rogers University",Law,4,3.19,Drama,None,163,523848,Yes,Washington,Chevron,73,88,Yes,No
+STU7863,Joan Johnson,Calderon PLC University,Electrical Engineering,2,4.48,Student Council,None,76,646127,No,Arkansas,NNPC,64,84,Yes,No
+STU1499,Dana Ferguson,Walsh-Cruz University,Electrical Engineering,1,4.62,Debate,Team Captain,76,214193,No,Connecticut,MTN,69,72,Yes,No
+STU9893,Matthew Stewart,Suarez Inc University,Medicine,3,3.98,Drama,Club President,59,868955,No,Idaho,AAF,84,76,Yes,Yes
